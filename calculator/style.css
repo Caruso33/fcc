@@ -1,0 +1,13 @@
+.container{
+  text-align: center;
+  margin-top: 50px;
+}
+button{
+  margin: 5px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+input[type=text]{
+  margin-bottom: 20px;
+}
