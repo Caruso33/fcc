@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "caruso33",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "THIS IS THE HOW-TO-NPM COURSE",
+  "repository": {
+    "type": "git",
+    "url": "localhost"
+  }
+}
